@@ -14,7 +14,7 @@
 
 **Компилятор**: g++ (Debian 12.2.0-14) 12.2.0
 
-Компиляция: ``g++ omp_is.coo -fopenmp -o main.bin``
+Компиляция: ``g++ omp_is.cpp -fopenmp -o main.bin``
 
 Запуск: ``./main.bin``
 
@@ -24,6 +24,6 @@
 
 ![image](https://github.com/deathlokmike/parallel_insertion_sort/assets/45070165/984b3467-375f-4997-ad88-fa902c82f785)
 
-Для подробного ознакомления, рекомендую статью:
+Для подробного ознакомления рекомендую статью:
 
 https://www3.cs.stonybrook.edu/%7Epramod.ganapathi/doc/papers/2021-ComputerJournal-Sorting.pdf
